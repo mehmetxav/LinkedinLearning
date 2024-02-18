@@ -1,3 +1,54 @@
+/*  Color pallete
+Midnight Blue #001F3
+
+Dark Blue #151983
+
+Royal Blue #1863D6
+
+Baby Blue #B6CBE1
+*/
+
+/* GLOBAL STYLES
+---------------------------------------------*/
+
 body {
-    background: green
+    background: #B6CBE1;
+}
+
+/* HOME
+-------------------------------*/
+.home{
+    background: url(../images/bg-home-office-studio.jpg) no-repeat;
+    background-size: cover;
+}
+
+.home .content-wrapper{
+    background: rgb(255 255 255 / 0.9);
+}
+
+/* RESUME
+--------------------------------------------*/
+
+
+/* Profile
+--------------------------------------*/
+
+
+/* Projects
+---------------------------------*/
+
+
+/* Work experience
+--------------------------------------*/
+
+
+/* Education
+-------------------------------*/
+
+/* Footer
+----------------------------------------*/
+
+footer{
+    background: #222222;
+    color: #1863D6;
 }
